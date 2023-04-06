@@ -1,2 +1,6 @@
 xin chao cac ban
+<<<<<<< HEAD
 xin chao main
+=======
+xin chao master
+>>>>>>> master
